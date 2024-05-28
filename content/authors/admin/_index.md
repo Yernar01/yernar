@@ -134,15 +134,15 @@ skills:
       - name: Running
         description: ''
         percent: 60
-        icon: person-simple-run
+        icon: person-simple-walk
       - name: Writing
         description: ''
         percent: 100
-        icon: pencil
+        icon: cats
       - name: Reading
         description: ''
         percent: 80
-        icon: book
+        icon: photography
 
 languages:
   - name: Kazakh
