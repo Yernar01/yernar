@@ -55,37 +55,37 @@ interests:
   - Defect Detection
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computer and Information Engineering
+    institution: Sakarya University
+    date_start: 2019-10-03
+    date_end: present
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
+  - area: MEng Computer Science
+    institution: Ahkmet Yassawi University
+    date_start: 2017-09-01
+    date_end: 2019-07-06
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.55/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    #  Courses included:
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc Computer Science
+    institution: Ahkmet Yassawi University
+    date_start: 2013-09-01
+    date_end: 2017-07-06
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.51/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  Courses included:
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -119,11 +119,11 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Computer Vision
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: Teaching
         description: ''
         percent: 40
         icon: circle-stack
@@ -131,28 +131,28 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Running
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: person-simple-run
+      - name: Writing
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: pencil
+      - name: Reading
         description: ''
         percent: 80
-        icon: camera
+        icon: book
 
 languages:
   - name: Kazakh
     percent: 100
-  - name: English
-    percent: 65
   - name: Turkish
-    percent: 85
+    percent: 90
+  - name: English
+    percent: 70
   - name: Russian
-    percent: 65
+    percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
