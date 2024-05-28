@@ -1,13 +1,13 @@
 ---
 # Display name
-title: test 吳健雄
+title: Ернар
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yernar SEIITKAMAL
 
 # Full name (for SEO)
-first_name: YESSEY
-last_name: Tech
+first_name: Yernar
+last_name: SEIITKAMAL
 
 # Status emoji
 status:
@@ -20,36 +20,39 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Sakarya University
+    url: https://www.sakarya.edu.tr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:yernar.seiitkamal@ogr.sakarya.edu.tr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+  #- icon: brands/x
+  #  url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/yernar.tech
+    label: Follow Me
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/Yernar01
+    label: Follow Me
+  #- icon: brands/linkedin
+  #  url: https://www.linkedin.com/
+  #- icon: academicons/google-scholar
+  #  url: https://scholar.google.com/
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Deep Learning
+  - Computer Vision
+  - Defect Detection
 
 education:
   - area: PhD Artificial Intelligence
@@ -142,12 +145,14 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Kazakh
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 65
+  - name: Turkish
+    percent: 85
+  - name: Russian
+  - percent: 65
 
 # Awards.
 #   Add/remove as many awards below as you like.
