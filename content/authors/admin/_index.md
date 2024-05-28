@@ -69,7 +69,7 @@ education:
     date_start: 2017-09-01
     date_end: 2019-07-06
     summary: |
-      GPA: 3.55/4.0
+      GPA: 3.5/4.0
 
     #  Courses included:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -80,7 +80,7 @@ education:
     date_start: 2013-09-01
     date_end: 2017-07-06
     summary: |
-      GPA: 3.51/4.0
+      GPA: 3.5/4.0
       
     #  Courses included:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
