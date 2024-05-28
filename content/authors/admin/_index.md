@@ -58,7 +58,7 @@ education:
   - area: PhD Computer and Information Engineering
     institution: Sakarya University
     date_start: 2019-10-11
-    date_end: present
+    date_end: ''
     #summary: |
      
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
