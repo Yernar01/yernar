@@ -152,7 +152,7 @@ languages:
   - name: Turkish
     percent: 85
   - name: Russian
-  - percent: 65
+    percent: 65
 
 # Awards.
 #   Add/remove as many awards below as you like.
