@@ -3,7 +3,7 @@
 title: Ернар
 
 # Name pronunciation (optional)
-name_pronunciation: Yernar SEIITKAMAL
+#name_pronunciation: Yernar SEIITKAMAL
 
 # Full name (for SEO)
 first_name: Yernar
@@ -14,10 +14,10 @@ status:
   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: true
+#superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+#highlight_name: true
 
 # Role/position/tagline
 role: PhD Candidate
