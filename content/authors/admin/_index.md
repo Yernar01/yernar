@@ -3,7 +3,7 @@
 title: Ернар
 
 # Name pronunciation (optional)
-#name_pronunciation: Yernar SEIITKAMAL
+name_pronunciation: Yernar SEIITKAMAL
 
 # Full name (for SEO)
 first_name: Yernar
