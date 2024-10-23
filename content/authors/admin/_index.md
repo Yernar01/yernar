@@ -11,7 +11,7 @@ last_name: SEIITKAMAL
 
 # Status emoji
 status:
-  icon: "custom/img.svg"
+  icon: img
   icon_pack: custom
   #icon: ☕️
 
