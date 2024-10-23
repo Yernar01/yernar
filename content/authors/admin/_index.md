@@ -11,7 +11,7 @@ last_name: SEIITKAMAL
 
 # Status emoji
 status:
-  icon: "icons/img"
+  icon: "icons/img.svg"
   #icon: ☕️
 
 # Is this the primary user of the site?
