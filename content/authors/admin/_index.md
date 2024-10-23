@@ -11,12 +11,7 @@ last_name: SEIITKAMAL
 
 # Status emoji
 status:
-  name: flag
-  description: my country flag
-  icon: 🇰🇿![img_3.png](img_3.png)
-  icon_pack: emoji
-  #icon_pack: custom
-  #icon: ☕️
+  icon: ☕️
 
 # Is this the primary user of the site?
 #superuser: true
