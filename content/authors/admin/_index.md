@@ -13,7 +13,7 @@ last_name: SEIITKAMAL
 status:
   name: flag
   description: my country flag
-  icon: 🇰🇿
+  icon: 🇰🇿![img_3.png](img_3.png)
   icon_pack: emoji
   #icon_pack: custom
   #icon: ☕️
