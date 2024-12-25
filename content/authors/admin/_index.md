@@ -12,7 +12,7 @@ last_name: SEIITKAMAL
 # Status emoji
 status:
   icon: ☕️
-  label: buy me coffee)
+ label: buy me coffee)
 
 # Is this the primary user of the site?
 #superuser: true
