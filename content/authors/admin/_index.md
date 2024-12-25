@@ -12,6 +12,7 @@ last_name: SEIITKAMAL
 # Status emoji
 status:
   icon: ☕️
+label: buy me coffee)
 
 # Is this the primary user of the site?
 #superuser: true
@@ -38,9 +39,9 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/yernar.tech
     label: Follow Me
-  - icon: brands/github
-    url: https://github.com/Yernar01
-    label: Follow Me
+  #- icon: brands/github
+  #  url: https://github.com/Yernar01
+  #  label: Follow Me
   #- icon: brands/linkedin
   #  url: https://www.linkedin.com/
   #- icon: academicons/google-scholar
@@ -49,10 +50,10 @@ profiles:
   #  url: https://orcid.org/
 
 interests:
-  - Machine Learning
   - Deep Learning
   - Computer Vision
   - Defect Detection
+  - Optimization
 
 education:
   - area: PhD Computer and Information Engineering
@@ -65,7 +66,7 @@ education:
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  - area: MEng Computer Science
+  - area: MSc Computer Science
     institution: Ahkmet Yassawi University
     date_start: 2017-09-01
     date_end: 2019-07-07
