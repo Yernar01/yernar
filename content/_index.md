@@ -16,11 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Buy me coffee)
+        text: Download CV
         url: uploads/resume.pdf
-      button:
-        text: Test text
-        url: uploads/
     design:
       css_class: dark
       background:
@@ -38,9 +35,9 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        (My dream is to say, "I’m a research scientist on the Moonshot team at DeepMind.") However, for now, I spend most of my time in the computer vision laboratory. I blog about machine learning, deep learning, and lifelong learning.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Write code 👨‍💻, train model 💻, test 👨🏻‍💻, step += 1 🔂, and repeat the loop 🔙. 
         
         Please reach out to collaborate 😃
     design:
