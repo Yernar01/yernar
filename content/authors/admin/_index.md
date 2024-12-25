@@ -10,10 +10,10 @@ first_name: Yernar
 last_name: SEIITKAMAL
 
 # Status emoji
-  - status:
-    icon: ☕️
-    url: 'https://www.instagram.com/yernar.tech'
-    label: buy me coffee)
+status:
+ - icon: ☕ ️
+   url: 'https://www.instagram.com/yernar.tech'
+   label: buy me coffee)
 
 # Is this the primary user of the site?
 #superuser: true
