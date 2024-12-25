@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My life book'
       subtitle: ''
       text: |-
         (My dream is to say, "I’m a research scientist on the Moonshot team at DeepMind.") However, for now, I spend most of my time in the computer vision laboratory. I blog about machine learning, deep learning, and lifelong learning.
