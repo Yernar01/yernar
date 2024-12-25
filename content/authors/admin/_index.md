@@ -11,9 +11,9 @@ last_name: SEIITKAMAL
 
 # Status emoji
 status:
- - icon: ☕ ️
-   url: 'https://www.instagram.com/yernar.tech'
-   label: buy me coffee)
+icon: ☕️
+url: 'https://www.instagram.com/yernar.tech'
+label: buy me coffee)
 
 # Is this the primary user of the site?
 #superuser: true
