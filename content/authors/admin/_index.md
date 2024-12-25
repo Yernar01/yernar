@@ -67,7 +67,7 @@ education:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
   - area: MSc Computer Science
-    institution: Ahkmet Yassawi University
+    institution: Ahmet Yassawi University
     date_start: 2017-09-01
     date_end: 2019-07-07
     summary: |
@@ -78,7 +78,7 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Computer Science
-    institution: Ahkmet Yassawi University
+    institution: Ahmet Yassawi University
     date_start: 2013-09-01
     date_end: 2017-07-07
     summary: |
@@ -190,4 +190,4 @@ awards:
 
 ## About Me
 
-Yernar SEIITKAMAL is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yernar SEIITKAMAL is a PhD candidate at the Department of Computer and Information Engineering, Sakarya University. His research interests include advanced training, damage detection, and classification. He is currently working with Prof. Dr. Cemil OZ on the detection of defects on highly reflective metal surfaces.
