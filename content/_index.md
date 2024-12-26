@@ -35,9 +35,9 @@ sections:
       title: '📚 My life book'
       subtitle: ''
       text: |-
-        (My dream is to say, "I’m a research scientist on the Moonshot team at DeepMind.") However, for now, I spend most of my time in the computer vision laboratory. I blog about machine learning, deep learning, and lifelong learning.
+        (My dream is to say, "I’m an AI/ML research scientist at one of the BigTech (MAANG)).") However, for now, I spend most of my time in the computer vision laboratory. I blog about machine learning, deep learning, and lifelong learning.
 
-        Write code 👨🏻‍💻, train model 💻, test 👨🏻‍💻, step += 1 🔂, and repeat the loop 🔙. 
+        Write code 👨🏻‍💻, train model 💻, test the model 👨🏻‍💻, step += 1 🔂, and repeat the loop 🔙. 
         
         Please reach out to collaborate 😃
     design:
