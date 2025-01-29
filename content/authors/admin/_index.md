@@ -190,4 +190,4 @@ awards:
 
 ## About Me
 
-Yernar SEIITKAMAL is a PhD candidate at the Department of Computer and Information Engineering, Sakarya University. His research interests include deep learning, defect detection, and classification. He is currently working with Prof. Dr. Cemil OZ on the detection of defects on highly reflective metal surfaces.
+Yernar SEIITKAMAL is a PhD candidate at the Department of Computer and Information Engineering, Sakarya University. His research interests include deep learning, defect detection, and classification. He is currently working with Prof. Dr. Cemil OZ on the detection of defects on highly reflective metal surfaces. Лорем ипсон Лорем ипсон Лорем ипсон Лорем ипсон Лорем ипсон 
