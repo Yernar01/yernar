@@ -35,7 +35,7 @@ sections:
       title: '📚 My life book'
       subtitle: ''
       text: |-
-        (My dream is to say, "I’m an AI/ML research scientist at one of the BigTech.") However, for now, I spend most of my time in the computer vision laboratory. I blog about machine learning, deep learning, and lifelong learning.
+        (My dream is to say, "I’m an AI/ML Engineer at one of the BigTech.") However, for now, I spend most of my time in the computer vision laboratory. I blog about machine learning, deep learning, and lifelong learning.
 
         Write code 👨🏻‍💻, train model 💻, test the model 👨🏻‍💻, step += 1 🔂, and repeat the loop 🔙. 
         
