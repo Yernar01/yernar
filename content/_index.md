@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My life book'
+      title: '📚 My life book...'
       subtitle: ''
       text: |-
         (My dream is to say, "I’m an AI/ML Engineer at one of the BigTech.") However, for now, I spend most of my time in the computer vision laboratory. I blog about machine learning, deep learning, and lifelong learning.
