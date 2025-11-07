@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ернар
+#title: Ернар
 
 # Name pronunciation (optional)
 name_pronunciation: Yernar SEIITKAMAL
