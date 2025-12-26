@@ -12,7 +12,7 @@ authors:
   - admin
 
 tags:
-  - Academic
+  - Жасанды Интеллект
   - Wowchemy
   - Markdown
 ---
